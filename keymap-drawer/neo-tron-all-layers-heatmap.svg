@@ -1,0 +1,330 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980">
+<rect width="1500" height="980" fill="#101820"/>
+
+<defs>
+  <filter id="hotGlow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#f92f39" flood-opacity="0.55"/>
+  </filter>
+</defs>
+
+<text x="48" y="67" font-family="Noto Sans CJK JP, sans-serif" font-size="34" font-weight="700" fill="#f2f5f9">Neo-TRON Full-Layer Heatmap</text>
+<text x="48" y="103" font-family="Noto Sans CJK JP, sans-serif" font-size="18" fill="#aeb8c5">Single-key frequency · Japanese corpus · global scale across all layers</text>
+<rect x="920" y="58" width="70" height="20" fill="#125c6c"/>
+<rect x="990" y="58" width="70" height="20" fill="#206a79"/>
+<rect x="1060" y="58" width="70" height="20" fill="#2d6d7d"/>
+<rect x="1130" y="58" width="70" height="20" fill="#567f8c"/>
+<rect x="1200" y="58" width="70" height="20" fill="#918b96"/>
+<rect x="1270" y="58" width="70" height="20" fill="#c76671"/>
+<rect x="1340" y="58" width="70" height="20" fill="#f92f39"/>
+<text x="920" y="105" font-family="Noto Sans CJK JP, sans-serif" font-size="14" fill="#aeb8c5">lower frequency</text>
+<text x="1305" y="105" font-family="Noto Sans CJK JP, sans-serif" font-size="14" fill="#aeb8c5">higher</text>
+<rect x="45" y="195" width="690" height="355" rx="18" fill="#141f29" stroke="#2b3947" stroke-width="2"/>
+<text x="71" y="237" font-family="Noto Sans CJK JP, sans-serif" font-size="25" font-weight="700" fill="#f2f5f9">BASE — 70.045%</text>
+<rect class="key-0" x="71" y="265" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="100.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ら</text>
+<text x="100.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.27</text>
+<rect class="key-1" x="136" y="265" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="165.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">る</text>
+<text x="165.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.96</text>
+<rect class="key-2" x="201" y="265" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="230.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">こ</text>
+<text x="230.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.83</text>
+<rect class="key-3" x="266" y="265" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="295.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">は</text>
+<text x="295.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.76</text>
+<rect class="key-4" x="331" y="265" width="58" height="58" rx="5" fill="#918b96"/>
+<text x="360.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ょ</text>
+<text x="360.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">2.44</text>
+<rect class="key-5" x="396" y="265" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="425.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">き</text>
+<text x="425.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">2.22</text>
+<rect class="key-6" x="461" y="265" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="490.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">り</text>
+<text x="490.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.58</text>
+<rect class="key-7" x="526" y="265" width="58" height="58" rx="5" fill="#918b96"/>
+<text x="555.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">く</text>
+<text x="555.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">2.70</text>
+<rect class="key-8" x="591" y="265" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="620.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">あ</text>
+<text x="620.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.31</text>
+<rect class="key-9" x="656" y="265" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="685.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">れ</text>
+<text x="685.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.17</text>
+<rect class="key-10" x="71" y="330" width="58" height="58" rx="5" fill="#918b96"/>
+<text x="100.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">た</text>
+<text x="100.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">2.47</text>
+<rect class="key-11" x="136" y="330" width="58" height="58" rx="5" fill="#918b96"/>
+<text x="165.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">と</text>
+<text x="165.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">2.65</text>
+<rect class="key-12" x="201" y="330" width="58" height="58" rx="5" fill="#c76671"/>
+<text x="230.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">か</text>
+<text x="230.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">3.29</text>
+<rect class="key-13" x="266" y="330" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="295.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">て</text>
+<text x="295.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.65</text>
+<rect class="key-14" x="331" y="330" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="360.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">も</text>
+<text x="360.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.78</text>
+<rect class="key-15" x="396" y="330" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="425.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">を</text>
+<text x="425.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.99</text>
+<rect class="key-16" x="461" y="330" width="58" height="58" rx="5" fill="#f92f39" filter="url(#hotGlow)"/>
+<text x="490.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">い</text>
+<text x="490.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">5.87</text>
+<rect class="key-17" x="526" y="330" width="58" height="58" rx="5" fill="#f92f39" filter="url(#hotGlow)"/>
+<text x="555.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">う</text>
+<text x="555.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">6.00</text>
+<rect class="key-18" x="591" y="330" width="58" height="58" rx="5" fill="#c76671"/>
+<text x="620.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">し</text>
+<text x="620.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">4.45</text>
+<rect class="key-19" x="656" y="330" width="58" height="58" rx="5" fill="#f92f39" filter="url(#hotGlow)"/>
+<text x="685.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ん</text>
+<text x="685.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">6.76</text>
+<rect class="key-20" x="71" y="395" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="100.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ま</text>
+<text x="100.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.05</text>
+<rect class="key-21" x="136" y="395" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="165.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">に</text>
+<text x="165.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">2.13</text>
+<rect class="key-22" x="201" y="395" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="230.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">さ</text>
+<text x="230.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.50</text>
+<rect class="key-23" x="266" y="395" width="58" height="58" rx="5" fill="#918b96"/>
+<text x="295.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">の</text>
+<text x="295.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">2.63</text>
+<rect class="key-24" x="331" y="395" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="360.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">な</text>
+<text x="360.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.34</text>
+<rect class="key-25" x="396" y="395" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="425.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">す</text>
+<text x="425.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.36</text>
+<rect class="key-26" x="461" y="395" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="490.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">つ</text>
+<text x="490.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.90</text>
+<rect class="key-27" x="526" y="395" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="555.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">、</text>
+<text x="555.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.99</text>
+<rect class="key-28" x="591" y="395" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="620.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">。</text>
+<text x="620.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.46</text>
+<rect class="key-29" x="656" y="395" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="685.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">っ</text>
+<text x="685.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.53</text>
+<rect x="765" y="195" width="690" height="355" rx="18" fill="#141f29" stroke="#2b3947" stroke-width="2"/>
+<text x="791" y="237" font-family="Noto Sans CJK JP, sans-serif" font-size="25" font-weight="700" fill="#f2f5f9">RED — 13.619%</text>
+<rect class="key-30" x="791" y="265" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="820.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ひ</text>
+<text x="820.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.53</text>
+<rect class="key-31" x="856" y="265" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="885.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">そ</text>
+<text x="885.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.64</text>
+<rect class="key-32" x="921" y="265" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<text x="950.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">・</text>
+<text x="950.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.00</text>
+<rect class="key-33" x="986" y="265" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="1015.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ゃ</text>
+<text x="1015.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.59</text>
+<rect class="key-34" x="1051" y="265" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="1080.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ほ</text>
+<text x="1080.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.52</text>
+<rect class="key-35" x="1116" y="265" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="1145.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぎ</text>
+<text x="1145.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.39</text>
+<rect class="key-36" x="1181" y="265" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-37" x="1246" y="265" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="1275.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぐ</text>
+<text x="1275.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.40</text>
+<rect class="key-38" x="1311" y="265" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<text x="1340.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">れ</text>
+<text x="1340.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.00*</text>
+<rect class="key-39" x="1376" y="265" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="1405.0" y="293" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ろ</text>
+<text x="1405.0" y="314" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.60</text>
+<rect class="key-40" x="791" y="330" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="820.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぬ</text>
+<text x="820.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.04</text>
+<rect class="key-41" x="856" y="330" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="885.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ね</text>
+<text x="885.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.18</text>
+<rect class="key-42" x="921" y="330" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="950.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ゅ</text>
+<text x="950.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.42</text>
+<rect class="key-43" x="986" y="330" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="1015.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">よ</text>
+<text x="1015.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.72</text>
+<rect class="key-44" x="1051" y="330" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="1080.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ふ</text>
+<text x="1080.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.62</text>
+<rect class="key-45" x="1116" y="330" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="1145.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">お</text>
+<text x="1145.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.12</text>
+<rect class="key-46" x="1181" y="330" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="1210.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぢ</text>
+<text x="1210.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.00</text>
+<rect class="key-47" x="1246" y="330" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="1275.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ゔ</text>
+<text x="1275.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.07</text>
+<rect class="key-48" x="1311" y="330" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="1340.0" y="358" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">じ</text>
+<text x="1340.0" y="379" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.66</text>
+<rect class="key-49" x="1376" y="330" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-50" x="791" y="395" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-51" x="856" y="395" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="885.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">け</text>
+<text x="885.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.93</text>
+<rect class="key-52" x="921" y="395" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="950.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ゆ</text>
+<text x="950.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.26</text>
+<rect class="key-53" x="986" y="395" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="1015.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">せ</text>
+<text x="1015.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.31</text>
+<rect class="key-54" x="1051" y="395" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="1080.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">へ</text>
+<text x="1080.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.28</text>
+<rect class="key-55" x="1116" y="395" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="1145.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ず</text>
+<text x="1145.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.28</text>
+<rect class="key-56" x="1181" y="395" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="1210.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">づ</text>
+<text x="1210.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.05</text>
+<rect class="key-57" x="1246" y="395" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<text x="1275.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">「</text>
+<text x="1275.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.00</text>
+<rect class="key-58" x="1311" y="395" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<text x="1340.0" y="423" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">」</text>
+<text x="1340.0" y="444" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.00</text>
+<rect class="key-59" x="1376" y="395" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect x="45" y="575" width="690" height="355" rx="18" fill="#141f29" stroke="#2b3947" stroke-width="2"/>
+<text x="71" y="617" font-family="Noto Sans CJK JP, sans-serif" font-size="25" font-weight="700" fill="#f2f5f9">BLUE — 15.054%</text>
+<rect class="key-60" x="71" y="645" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="100.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">び</text>
+<text x="100.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.33</text>
+<rect class="key-61" x="136" y="645" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="165.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぞ</text>
+<text x="165.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.19</text>
+<rect class="key-62" x="201" y="645" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="230.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ご</text>
+<text x="230.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.41</text>
+<rect class="key-63" x="266" y="645" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="295.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ば</text>
+<text x="295.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.57</text>
+<rect class="key-64" x="331" y="645" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="360.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぼ</text>
+<text x="360.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.21</text>
+<rect class="key-65" x="396" y="645" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="425.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">え</text>
+<text x="425.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.79</text>
+<rect class="key-66" x="461" y="645" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-67" x="526" y="645" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="555.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">め</text>
+<text x="555.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.68</text>
+<rect class="key-68" x="591" y="645" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="620.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">む</text>
+<text x="620.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.42</text>
+<rect class="key-69" x="656" y="645" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<text x="685.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ろ</text>
+<text x="685.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.00*</text>
+<rect class="key-70" x="71" y="710" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="100.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">だ</text>
+<text x="100.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.94</text>
+<rect class="key-71" x="136" y="710" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="165.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ど</text>
+<text x="165.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.90</text>
+<rect class="key-72" x="201" y="710" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="230.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">が</text>
+<text x="230.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">2.06</text>
+<rect class="key-73" x="266" y="710" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="295.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">で</text>
+<text x="295.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.20</text>
+<rect class="key-74" x="331" y="710" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="360.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぶ</text>
+<text x="360.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.59</text>
+<rect class="key-75" x="396" y="710" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<text x="425.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">お</text>
+<text x="425.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.00*</text>
+<rect class="key-76" x="461" y="710" width="58" height="58" rx="5" fill="#2d6d7d"/>
+<text x="490.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ち</text>
+<text x="490.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.32</text>
+<rect class="key-77" x="526" y="710" width="58" height="58" rx="5" fill="#567f8c"/>
+<text x="555.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ー</text>
+<text x="555.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">1.66</text>
+<rect class="key-78" x="591" y="710" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="620.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">み</text>
+<text x="620.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.66</text>
+<rect class="key-79" x="656" y="710" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="685.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">や</text>
+<text x="685.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.56</text>
+<rect class="key-80" x="71" y="775" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-81" x="136" y="775" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="165.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">げ</text>
+<text x="165.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.37</text>
+<rect class="key-82" x="201" y="775" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="230.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ざ</text>
+<text x="230.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.26</text>
+<rect class="key-83" x="266" y="775" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="295.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぜ</text>
+<text x="295.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.17</text>
+<rect class="key-84" x="331" y="775" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="360.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">べ</text>
+<text x="360.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.20</text>
+<rect class="key-85" x="396" y="775" width="58" height="58" rx="5" fill="#206a79"/>
+<text x="425.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">わ</text>
+<text x="425.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.57</text>
+<rect class="key-86" x="461" y="775" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-87" x="526" y="775" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-88" x="591" y="775" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-89" x="656" y="775" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect x="765" y="575" width="690" height="355" rx="18" fill="#141f29" stroke="#2b3947" stroke-width="2"/>
+<text x="791" y="617" font-family="Noto Sans CJK JP, sans-serif" font-size="25" font-weight="700" fill="#f2f5f9">PURPLE — 1.282%</text>
+<rect class="key-90" x="791" y="645" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="820.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぴ</text>
+<text x="820.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.09</text>
+<rect class="key-91" x="856" y="645" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-92" x="921" y="645" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-93" x="986" y="645" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="1015.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぱ</text>
+<text x="1015.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.18</text>
+<rect class="key-94" x="1051" y="645" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="1080.0" y="673" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぽ</text>
+<text x="1080.0" y="694" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.22</text>
+<rect class="key-95" x="1116" y="645" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-96" x="1181" y="645" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-97" x="1246" y="645" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-98" x="1311" y="645" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-99" x="1376" y="645" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-100" x="791" y="710" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-101" x="856" y="710" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-102" x="921" y="710" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-103" x="986" y="710" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-104" x="1051" y="710" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="1080.0" y="738" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぷ</text>
+<text x="1080.0" y="759" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.23</text>
+<rect class="key-105" x="1116" y="710" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-106" x="1181" y="710" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-107" x="1246" y="710" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-108" x="1311" y="710" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-109" x="1376" y="710" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-110" x="791" y="775" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="820.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぇ</text>
+<text x="820.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.12</text>
+<rect class="key-111" x="856" y="775" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="885.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぉ</text>
+<text x="885.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.05</text>
+<rect class="key-112" x="921" y="775" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-113" x="986" y="775" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-114" x="1051" y="775" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="1080.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぺ</text>
+<text x="1080.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.07</text>
+<rect class="key-115" x="1116" y="775" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="1145.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぃ</text>
+<text x="1145.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.23</text>
+<rect class="key-116" x="1181" y="775" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="1210.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぁ</text>
+<text x="1210.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.07</text>
+<rect class="key-117" x="1246" y="775" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-118" x="1311" y="775" width="58" height="58" rx="5" fill="#1e1e2e" opacity="0.45"/>
+<rect class="key-119" x="1376" y="775" width="58" height="58" rx="5" fill="#125c6c"/>
+<text x="1405.0" y="803" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="23" font-weight="700" fill="#ffffff">ぅ</text>
+<text x="1405.0" y="824" text-anchor="middle" font-family="Noto Sans CJK JP, sans-serif" font-size="12.5" fill="#f7f9fb">0.02</text>
+<text x="48" y="953" font-family="Noto Sans CJK JP, sans-serif" font-size="14" fill="#aeb8c5">* Duplicate output assigned 0 usage here because the same character exists on an earlier/lower-cost layer. Unique corpus coverage: 99.999364%.</text>
+</svg>

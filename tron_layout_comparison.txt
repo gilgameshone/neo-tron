@@ -1,0 +1,186 @@
+TRON BASE-LAYER COMPARISON — Japanese Wikipedia corpus
+========================================================================
+
+Layouts compared:
+  Layout 1: neo-tron-base
+  Layout 2: tron-base (original TRON base arrangement)
+
+Corpus: japanese
+  Characters : 342,469,956
+  Bigrams    : 342,206,919
+  Skipgrams  : 341,943,883
+  Trigrams   : 341,943,883
+
+IMPORTANT SCOPE NOTE
+------------------------------------------------------------------------
+The two .dof files supplied contain only the 30-key BASE layer. The corpus
+also contains voiced kana, small vowels, etc. that are not represented in
+these .dof files. Therefore ergonomic metrics below are calculated only for
+n-grams whose characters all exist on the supplied base layer, and are then
+renormalised within that mapped subset so the two layouts can be compared
+fairly.
+
+  Character coverage : 70.045%
+  Bigram coverage    : 47.352%
+  Skipgram coverage  : 50.091%
+  Trigram coverage   : 32.530%
+
+CORE COMPARISON
+------------------------------------------------------------------------
+Metric                          neo-tron        TRON     Δ neo−TRON   relative
+----------------------------------------------------------------------------------
+SFB (different keys)              6.609%      6.905%      -0.297 pp      -4.3%
+DSFB (1-key skip)                 9.729%      9.865%      -0.136 pp      -1.4%
+Scissors — all                    3.967%      3.547%      +0.420 pp     +11.8%
+Scissors — inward-top             2.008%      2.088%      -0.079 pp      -3.8%
+Scissors — outward-top            1.959%      1.460%      +0.499 pp     +34.2%
+Pinky–ring bigrams                3.778%      3.732%      +0.045 pp      +1.2%
+Lateral stretches (proxy)         5.679%      5.618%      +0.061 pp      +1.1%
+Same-key repeats                  1.222%      1.222%      +0.000 pp      +0.0%
+
+Scissor definition used here: a top-row ↔ bottom-row bigram on the same
+hand using adjacent fingers or fingers one apart. "Inward-top" means the
+finger closer to the thumb is on the TOP row — the direction you identified
+as especially important. "Outward-top" is the reverse orientation.
+
+TRIGRAM MOVEMENT COMPARISON
+------------------------------------------------------------------------
+These categories use a transparent hand/finger classifier; they are intended
+for comparison between these two layouts and should not be assumed to match
+Oxeylyzer/Dofus category definitions exactly.
+
+Metric                              neo-tron        TRON     Δ neo−TRON
+------------------------------------------------------------------------
+Inrolls (mixed-hand)                 16.845%     17.964%      -1.119 pp
+Outrolls (mixed-hand)                16.782%     15.411%      +1.371 pp
+One-hand inrolls                      0.754%      0.801%      -0.046 pp
+One-hand outrolls                     1.133%      1.114%      +0.019 pp
+Alternates                           32.468%     32.465%      +0.003 pp
+Alternates (same finger return)      10.145%     10.228%      -0.083 pp
+Redirects                             6.986%      6.881%      +0.106 pp
+Mixed-hand SFB trigrams               9.001%      9.472%      -0.470 pp
+One-hand SFB trigrams                 5.885%      5.665%      +0.220 pp
+
+Total rolls                          35.515%     35.289%      +0.225 pp
+Total alternates                     42.613%     42.693%      -0.080 pp
+Total SFB-containing trigrams        14.886%     15.137%      -0.251 pp
+
+HAND LOAD (mapped base-layer characters only)
+------------------------------------------------------------------------
+L hand                            41.046%     39.546%      +1.499 pp
+R hand                            58.954%     60.454%      -1.499 pp
+
+FINGER LOAD (mapped base-layer characters only)
+------------------------------------------------------------------------
+L pinky           6.835%      6.835%      +0.000 pp
+L ring            9.622%      8.836%      +0.786 pp
+L middle          9.453%     10.354%      -0.901 pp
+L index          15.134%     13.520%      +1.614 pp
+R index          19.876%     21.375%      -1.499 pp
+R middle         15.264%     15.264%      +0.000 pp
+R ring           10.314%     10.314%      +0.000 pp
+R pinky          13.500%     13.500%      +0.000 pp
+
+KEY-FREQUENCY HEATMAP DATA (% of ALL corpus characters)
+------------------------------------------------------------------------
+neo-tron-base
+ら:1.27  る:1.96  こ:1.83  は:1.76  ょ:2.44  き:2.22  り:1.58  く:2.70  あ:1.31  れ:1.17
+た:2.47  と:2.65  か:3.29  て:1.65  も:0.78  を:0.99  い:5.87  う:6.00  し:4.45  ん:6.76
+ま:1.05  に:2.13  さ:1.50  の:2.63  な:1.34  す:1.36  つ:1.90  、:1.99  。:1.46  っ:1.53
+
+tron-base
+ら:1.27  る:1.96  こ:1.83  は:1.76  ょ:2.44  き:2.22  の:2.63  く:2.70  あ:1.31  れ:1.17
+た:2.47  と:2.65  か:3.29  て:1.65  も:0.78  を:0.99  い:5.87  う:6.00  し:4.45  ん:6.76
+ま:1.05  り:1.58  に:2.13  さ:1.50  な:1.34  す:1.36  つ:1.90  、:1.99  。:1.46  っ:1.53
+
+TOP SFB CONTRIBUTIONS (% of ALL corpus bigrams; pair directions merged)
+------------------------------------------------------------------------
+neo-tron-base                      tron-base
+  きい  0.1782%                        のい  0.2901%
+  いす  0.1566%                        かに  0.1904%
+  ると  0.1536%                        きい  0.1782%
+  りつ  0.1372%                        きの  0.1584%
+  れん  0.1314%                        いす  0.1566%
+  とに  0.1244%                        ると  0.1536%
+  をい  0.1241%                        れん  0.1314%
+  もの  0.1228%                        をい  0.1241%
+  う、  0.1159%                        う、  0.1159%
+  し。  0.1108%                        し。  0.1108%
+  いつ  0.1029%                        のつ  0.1078%
+  たま  0.0965%                        とり  0.1072%
+  はな  0.0936%                        いつ  0.1029%
+  はの  0.0892%                        たま  0.0965%
+  かさ  0.0850%                        はな  0.0936%
+  りい  0.0843%                        をつ  0.0804%
+  をつ  0.0804%                        くう  0.0796%
+  くう  0.0796%                        く、  0.0766%
+  く、  0.0766%                        のす  0.0763%
+  きつ  0.0762%                        きつ  0.0762%
+
+TOP SFB CONTRIBUTIONS (% of ALL corpus bigrams; pair directions merged)
+------------------------------------------------------------------------
+neo-tron-base                      tron-base
+  きい  0.1782%                        のい  0.2901%
+  いす  0.1566%                        かに  0.1904%
+  ると  0.1536%                        きい  0.1782%
+  りつ  0.1372%                        きの  0.1584%
+  れん  0.1314%                        いす  0.1566%
+  とに  0.1244%                        ると  0.1536%
+  をい  0.1241%                        れん  0.1314%
+  もの  0.1228%                        をい  0.1241%
+  う、  0.1159%                        う、  0.1159%
+  し。  0.1108%                        し。  0.1108%
+  いつ  0.1029%                        のつ  0.1078%
+  たま  0.0965%                        とり  0.1072%
+  はな  0.0936%                        いつ  0.1029%
+  はの  0.0892%                        たま  0.0965%
+  かさ  0.0850%                        はな  0.0936%
+  りい  0.0843%                        をつ  0.0804%
+  をつ  0.0804%                        くう  0.0796%
+  くう  0.0796%                        く、  0.0766%
+  く、  0.0766%                        のす  0.0763%
+  きつ  0.0762%                        きつ  0.0762%
+
+
+
+
+TOP SCISSOR CONTRIBUTIONS (% of ALL corpus bigrams; pair directions merged)
+------------------------------------------------------------------------
+neo-tron-base                      tron-base                         
+  この  0.2062%                        ょり  0.1988%
+  、り  0.1644%                        には  0.1640%
+  には  0.1640%                        くっ  0.1199%
+  くっ  0.1199%                        、き  0.1118%
+  、き  0.1118%                        くす  0.1086%
+  くす  0.1086%                        なる  0.1061%
+  なる  0.1061%                        、れ  0.0746%
+  、れ  0.0746%                        、あ  0.0745%
+  、あ  0.0745%                        こな  0.0695%
+  こな  0.0695%                        あっ  0.0669%
+  あっ  0.0669%                        まる  0.0583%
+  のる  0.0665%                        。く  0.0565%
+
+SUMMARY OF THE LAYOUT CHANGE
+------------------------------------------------------------------------
+• neo-tron lowers SFBs from 6.905% to 6.609% (4.3% relative reduction).
+• neo-tron lowers DSFBs from 9.865% to 9.729% (1.4% relative reduction).
+• Total scissors increase from 3.547% to 3.967% (+11.8% relative).
+• However, the specifically important inward-top scissor direction falls from 2.088% to 2.008% (3.8% relative reduction).
+• The increase in total scissors is therefore driven by the reverse/outward-top direction, which rises from 1.460% to 1.959% (+34.2% relative).
+• Left-hand load moves from 39.546% to 41.046% of mapped characters, making neo-tron less right-heavy.
+
+METRIC DEFINITIONS / LIMITATIONS
+------------------------------------------------------------------------
+SFB: adjacent corpus bigram where two different keys use the same finger.
+DSFB: skipgram A?B where A and B use the same finger on different keys.
+Scissors: same-hand top↔bottom movement using adjacent fingers or fingers
+          one apart; this matches the scissor family discussed for TRON.
+Lateral stretch proxy: same-row, same-hand bigram separated by >=2 columns.
+Pinky–ring: same-hand bigram between pinky and ring fingers.
+Trigram categories are based on hand alternation and inward/outward finger
+rank. They are not claimed to be byte-for-byte equivalent to the analyser
+shown in the screenshot because its exact scoring/category implementation
+was not supplied.
+
+For an exact reproduction of that analyser’s Fspeed, Score, Bad Redirects,
+Sft, etc., its metric definitions/source or executable would be required.

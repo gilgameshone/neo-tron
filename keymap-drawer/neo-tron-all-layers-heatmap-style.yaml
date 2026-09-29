@@ -1,0 +1,31 @@
+# Neo-TRON full-layer heatmap
+# Global key numbering: base 0-29, red 30-59, blue 60-89, purple 90-119
+# Frequencies are % of ALL corpus characters.
+# Duplicate outputs are assigned to the first/lowest-cost layer only.
+svg_extra_style: |
+  /* Empty / redundant duplicate keys */
+  rect.key-32, rect.key-36, rect.key-38, rect.key-49, rect.key-50, rect.key-57, rect.key-58, rect.key-59, rect.key-66, rect.key-69, rect.key-75, rect.key-80, rect.key-86, rect.key-87, rect.key-88, rect.key-89, rect.key-91, rect.key-92, rect.key-95, rect.key-96, rect.key-97, rect.key-98, rect.key-99, rect.key-100, rect.key-101, rect.key-102, rect.key-103, rect.key-105, rect.key-106, rect.key-107, rect.key-108, rect.key-109, rect.key-112, rect.key-113, rect.key-117, rect.key-118 { fill: #1e1e2e !important; opacity: 0.45; }
+
+  /* Very low: 0–0.25% */
+  rect.key-40, rect.key-46, rect.key-47, rect.key-56, rect.key-61, rect.key-64, rect.key-83, rect.key-84, rect.key-90, rect.key-93, rect.key-94, rect.key-104, rect.key-110, rect.key-111, rect.key-114, rect.key-115, rect.key-116, rect.key-119 { fill: #125c6c !important; }
+
+  /* Low: 0.25–0.75% */
+  rect.key-30, rect.key-31, rect.key-33, rect.key-34, rect.key-35, rect.key-37, rect.key-39, rect.key-43, rect.key-44, rect.key-52, rect.key-54, rect.key-55, rect.key-60, rect.key-62, rect.key-63, rect.key-67, rect.key-68, rect.key-74, rect.key-78, rect.key-79, rect.key-81, rect.key-82, rect.key-85 { fill: #206a79 !important; }
+
+  /* Low-mid: 0.75–1.50% */
+  rect.key-0, rect.key-8, rect.key-9, rect.key-14, rect.key-15, rect.key-20, rect.key-24, rect.key-25, rect.key-28, rect.key-41, rect.key-42, rect.key-45, rect.key-51, rect.key-53, rect.key-65, rect.key-70, rect.key-71, rect.key-73, rect.key-76 { fill: #2d6d7d !important; }
+
+  /* Mid: 1.50–2.25% */
+  rect.key-1, rect.key-2, rect.key-3, rect.key-5, rect.key-6, rect.key-13, rect.key-21, rect.key-22, rect.key-26, rect.key-27, rect.key-29, rect.key-48, rect.key-72, rect.key-77 { fill: #567f8c !important; }
+
+  /* Mid-high: 2.25–3.25% */
+  rect.key-4, rect.key-7, rect.key-10, rect.key-11, rect.key-23 { fill: #918b96 !important; }
+
+  /* High: 3.25–5.00% */
+  rect.key-12, rect.key-18 { fill: #c76671 !important; }
+
+  /* Very high: >5.00% */
+  rect.key-16, rect.key-17, rect.key-19 { fill: #f92f39 !important; filter: drop-shadow(0px 0px 4px rgba(249,47,57,0.60)); }
+
+  /* Keep labels legible */
+  text { fill: #ffffff !important; }
